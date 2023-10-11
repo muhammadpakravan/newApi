@@ -1,4 +1,5 @@
 # NewsApi
+simple application for news with Django and Django-rest-framwork 
 
 
 ## list of all valid get requests
